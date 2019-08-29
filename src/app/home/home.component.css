@@ -1,0 +1,10 @@
+h1 {
+  color: black;
+  font-family: Impact;
+  font-size: 250%;
+}
+h2, h3 {
+  color: white;
+  font-family: Impact;
+  font-weight: lighter;
+}
